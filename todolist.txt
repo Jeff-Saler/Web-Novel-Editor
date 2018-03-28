@@ -1,0 +1,17 @@
+MVP: seq2seq RNN that edits origin-english machine translation to edited stylized readable product
+Bonus feature: Web App
+Bonus: Chinese and Korean
+Bonus: Train own NMT model
+To Dos:
+- moar web scraping(get my roommate to do it)
+- read seq2seq papers
+- get working model in Tensorflow
+- find optimal success metric
+- optimize model
+- get web app running
+- stylize web app
+- try model on other languages
+- implement into web app
+- attempt to get simple NMT working
+- integrate NMT to model
+- optimize nmt
