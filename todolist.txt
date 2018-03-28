@@ -4,14 +4,14 @@ Bonus: Chinese and Korean
 Bonus: Train own NMT model
 To Dos:
 - moar web scraping(get my roommate to do it)
-- read seq2seq papers
-- get working model in Tensorflow
-- find optimal success metric
-- optimize model
-- get web app running
-- stylize web app
-- try model on other languages
-- implement into web app
-- attempt to get simple NMT working
-- integrate NMT to model
-- optimize nmt
+- read seq2seq papers (background 2days)
+- get working model in Tensorflow (1-2.5days)
+- find optimal success metric(.5 days)
+- optimize model(background)
+- get web app running (1day)
+- stylize web app(1 day)
+- try model on other languages(1day)
+- implement into web app(1 day if ^ works)
+- attempt to get simple NMT working(2 days)
+- integrate NMT to model (1 day)
+- optimize nmt (background)
