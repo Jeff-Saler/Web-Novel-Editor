@@ -1,0 +1,106 @@
+
+[]  []  []
+Chapter 52 – Wind Blade
+This Chapter was sponsored by William Wang, Edward Schmitz, Jan-Henrik Dux, Quinn Trejo and Jonathan Chim!
+[Combo]s were continuous attacks that forced the opponent to be unable to retaliate or block it and it was performed like a single attack. For example, Yan Zhao’s [Peerless Strike], was composed of a Stab+Slash+Slash+Kick+Hack. In these 5 continuous strikes, the first four strikes only did 30% of one’s attack damage, but the last “Hack” did at least twice the damage of regular attacks. Therefore, the last strike of the combo would do over 50% of the combo’s damage.
+This was also why I chose to try to make my combo with “Stab+Slash+Hack+Ram+Slash”. The fourth strike was “Ram”, so as long as that strike was successful, the opponent would be stunned for a short while. It didn’t matter if the stun was as short as 0.1 seconds, it would be more than enough to finish the combo which was where the real strength of combos lay.
+In <Destiny>’s system, in order for a “Ram” to be successful, one must have more strength and attack damage than the opponent, which was calculated through Strength x 1.5 + Attack damage. So the fights of heavy armor classes, weren’t solely decided by strength but also decided by a good weapon.
+My development so far was me putting all my points into strength. With my [Heal], I could be unbeatable, since I didn’t put points in other stats such as endurance. I was pretty much a pure-strength swordsman!
+……
+Even though the troll in front of me didn’t get knocked back, my fifth attack still dealt over 300 damage! Although it wasn’t part of a combo, it still greatly exceeded any normal attack!
+The total HP of the troll was around 1900 or so and it stood no chance again me and Bobo’s savage attacks. With a cry, it fell and dropped a shiny battleaxe!
+I happily walked up and picked up the battleaxe. The stats weren’t bad——
+【Troll’s Battleaxe】（Green-Tier Equipment）
+Attack Damage: 75-149
+Strength: +18
+Other: +11 Strength
+Level Requirement: 32
+……
+Damn, the level requirement was too high and the quality of the weapon wasn’t that great either, so top-ranked players like Yan Zhao wouldn’t want this. In a few days, most players would be level 32 or so, then this battleaxe might have some luck. Perhaps I could even sell it for a couple gold coins!
+I threw the battleaxe into my inventory and continued. This time, I understood the trolls a bit more so I was more confident. I kicked over the pot of soup, and brought Baby Bobo to attack them!
+“Grr…Damn human, I’ll swallow you alive!”
+The troll waved around his wooden stick, while I carefully evaded, holding Jade City Sword. As a swordsman, my agility was extraordinarily good, so I dodged and a “MISS” popped up from the troll’s attack. I then easily sliced its huge leg and backed away naturally. Because of my quick movements more “MISS”es showed up. I only cast [Heal] once before I killed the second troll and with Bobo, I killed the third one fairly easily as well.
+Following the two cries, my experience also increased by quite a bit. If all went well, then after killing 100 trolls I should be able to rise to level 31 and after handing in the mission, I might even get near level 32; one step closer to being a top-level player!
+Tick!
+As I was killing trolls, a message came in. It was from Yue Qing Qian, “Xiao Yao?”
+“Mm, Qing Qian!”
+“You have a bounty of 1000 gold coins by [Wrath of the Heroes], did you know that?” She started up a call and her voice appeared, full of worry: “Where are you right now? Have you died yet?”
+I couldn’t help but laugh: “Of course not, I am currently in the middle of nowhere leveling!”
+“Mm, that’s good, be careful… How about I bring a few people to where you are, and level up with you. Then there would be no need to worry about the bounty hunters…”
+“Nah, it’s fine. Qing Qian you can go train by yourself, I don’t want to burden you any more. After what happened… did Yan Zhao continue bothering you?”
+“Nope. Yesterday he and my dad had a meal together and also drank quite a bit of beer. Although he did rant about how I was not being obedient…”
+“Haha, then that’s fine…”
+“About that…” Qing Qian was a bit hesitant.
+“About what?” I asked.
+She said: “Xiao Yao, although Yan Zhao’s a bit unyielding, he’s a good person. After he beat you, you won’t hold any grudges right?”
+I repleid: “Why would I, who do see me as eh? I didn’t even have any battle abilities to start with. If I lost, then I lost. I’ll continue working hard. In my eyes, Yan Zhao isn’t an enemy, but rather a strong opponent that I need to defeat. My goal is to beat him in a fair and square fight so that he has nothing to say about me…”
+“Mm!” Qing Qian lightly laughed: “I guess that’s just how you are!”
+“Okay, I’ll continue to grind my levels, you work hard too!”
+“Yep yep, I think it’ll take 3 days to get to level 40. Let’s see who gets there first!”
+“Okay…”
+……
+Continuing on, I killed one huge troll after the other. After I had killed over 70 trolls, they finally dropped an armor equipment. It was a round helmet, shining in the damp grass. I picked it up and checked it out, and my heartbeat sped up. Finally a usable helmet dropped. Up until now there had been nothing on my head!
+【Helmet of Cruelness】（Bronze-Tier Equipment）
+Type: Armor
+Defense: 62
+Endurance: +17
+Level Requirement: 31
+……
+Holding the helmet, I checked my level again. My experience was at level 30 and 99.4% full; I only needed to kill one more troll!
+Jade City Sword activated a level 3 [Combo] and I easily killed off another troll. With the golden ray falling upon me, I successfully reached level 31; I could wear the helmet now!
+With a clang, I put the helmet on my head and I looked like I was wearing an inverted bronze spittoon…That really annoys me…
+[TL: Spittoon – http://en.wikipedia.org/wiki/Spittoon]
+At the same time, I looked at my stats. My defense increased by a lot——
+【Xiao Yao Zi Zai】（Scavenger of Dragon City）
+Level: 31
+Attack: 522-705
+Defense: 322
+Health: 886
+Mana: 330
+Charm: 26
+……
+322 points in defense. That was more than enough to defend against the attacks of players at my level. Also, my HP had risen to 886 points which meant that I had a stronger safeguard. My [Heal] had also risen to LV-4, every time I could heal 600 HP; if I didn’t have enough max HP then it would be quite a waste…Baby Bobo also became level 31 with me, and his stats were in no way inferior to mine, this guy’s high level was pretty cheaty…
+【Baby Bobo】（Bee Overlord）
+Level: 31
+Attack Damage: 458-610
+Defense: 305
+Health: 763
+Mana: 305
+……
+Our stats were enough to challenge everything around here; the monsters near Dragon City wouldn’t have a level too high until the next update. All I needed to do now was to train my skills. I needed to get [Combo] to LV-4 or else I wouldn’t do enough damage!
+Soon, I had almost reached the amount of Troll kills needed.
+Walking around on the hill, I found a roughly 30 year old player wearing a medicine bag on his back. He must be doing some kind of herb picking quest, huh?
+From afar, he looked at me while I stared at him. Bobo was buzzing around and rushed forward with killing intent. But I stopped him saying: “Don’t be violent to everyone, let’s go and hand in our quest…”
+The herb picked looks at me and said nothing. He immediately turned back into the forest, probably to collect more herbs.
+……
+I’d finally killed 100 trolls as I looked at the time. It was almost 12 o’clock noon. I immediately returned with Bobo; I should deliver the quest before doing anything else!
+After 10 minutes or so, I reached the Dragon City Army Camp. The quartermaster towered over me and said: “Young Scavenger, you have shown your strength and killed those nasty trolls. You’ve prevented them from getting near Dragon City. Come, this is your reward!”
+“Ding!”
+System Notification: Congratulations! You’ve finished the quest 【Slaughter the Trolls】. You receive 15000 experience points, 5 gold coins, and your fame in Dragon City has risen. You also received the skill: [Wind Blade]!
+……
+Huh? [Wind Blade], what’s that?
+I immediately opened my bag and I saw a faint blood-red skill book laying there. I held it up and took a look; my mood became a lot more cheerful. This book was quite unexpected——
+【Wind Blade】 (A): Summons the wind to concentrate on the edge of the sword and launches a fierce attack on the opponent. Level 1 increases damage by 3%. Level 10 increases damage by 30%. You may not have both this and [Heavy Strike] at the same time. Uses 20 points of mana, and has a cast time of 0.2 seconds. Level requirement is 30 and consumes 1 point of charm when learning it!
+……
+My eyes almost popped out of their sockets…[Heavy Strike], the trump card of knights, swordsmen, and berserkers. At level 10 they only increased damage by 10%, but this [Wind Blade] was a lot better; level 10 increased damage by 30%! But the downside was that it needed 0.2 seconds of casting. It was very easy to break the attack during the windup and it also needed to consume 1 point of charm to learn it…
+I weighed the pros and cons to learn it. To not learn this skill was too wasteful!
+Whoosh!
+My charm went down to 25 points, and in my skill window [Wind Blade] appeared in an extra row. [Wind Blade], with such a good skill, it would be in the last strike of my “Stab+Slash+Hack+Ram+Slash” combo, and conveniently if my “Ram” iwas successful then I could stun the opponent for 0.2 seconds, just enough to cast [Wind Blade], the strike would undoubtedly kill…
+……
+When I talked to Beast Tamer Dalin again: “Instructor, do you have any new skills for me to learn?”
+Who knew what he ate wrong, but Dalin suddenly rose up and smiled widely: “Boy, you really don’t disappoint me! Come, I’ll pass down my special skill to you!”
+“Special skill?!” I got extremely excited: “Instructor, what’s your special kill?”
+“Chains…”
+“Damn! What chains?!”
+“It is a special ability that can capture both beasts and enemies, watch closely…”
+The Tamer struck the ground, and a few hundred meters in front of us, chains suddenly appeared from the ground and shattered a huge boulder!
+Dalin put his hands on his waist and proudly said, “How was that, Boy? Pretty powerful eh?”
+I was shocked and I heard some thoughts in my head——
+Oh powerful fellow, you are mighty and majestic…On a horse you are like the wind…and…
+This…This was not even powerful!
+……
+But, I accepted the skill, though I needed to spend 10 gold coins to learn it. What a rip off!
+【Binding Chains】 (A): Strike the ground and choose a target for [Binding Chains]. At level 1 there’s a 30% chance of binding the target. Uses 20 mana, lasts for 1.9 seconds. To learn this skill, you must spend 10 gold coins.
+It went without saying, 30% was better than 0%. I would learn it!
+[]  []  []
+
