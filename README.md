@@ -8,7 +8,10 @@ There is one problem that faces many web novel enthusiasts.  Someone who does no
 
 As an avid web novel enthusiast and a data scientist, I decided it was time to put a stop to this.  I decided to make a new form of machine translator that will not only take web novels from their language of origin to English, but also edit and stylize the output to make the robotic descriptive.
 
-![Image of Novel](https://images.gr-assets.com/books/1460555353l/29909306.jpg)
+<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" style="width: 175px;"/>
+<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" style="width: 175px;"/>
+<img src='https://cdn.novelupdates.com/images/2015/06/zl.jpg' alt = 'Zhan Long' style='width: 175px;'/>
+<img src='https://cdn.novelupdates.com/images/2017/11/128-200.jpg' alt = 'Zhan Long' style='width: 175px; height: 265px;'/>
 
 ## The Data
 
