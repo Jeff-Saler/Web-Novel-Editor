@@ -1,0 +1,397 @@
+Input sentence: The first chapter sword dust In a vast and endless range of mountains, two sword-shaped peaks with a thousand feet high stand 100 meters apart under a sea of ​​clouds
+
+Decoded sentence: ['', '[] []', 'Chapter 1: Jian Chen', '', 'Within a seemingly endless chain of mountain ranges, there were two sword-shaped mountain peaks well over a thousand feet tall and a hundred meters apart from each other as it towered under the very past of the Saint Test, comes this brightrenxedoth
+
+
+Input sentence: The two sword-shaped peaks are very steep, and they look like two enlarged versions of the Excalibur inserted between heaven and earth
+Decoded sentence: ', 'Both of these sword-shaped mountains were extremely precipitous and looked as if two gods had once stabbed their swords into the world
+
+
+Input sentence: There is no place for rock climbing
+Decoded sentence:  No matter where one looked, there was no way to climb up these mountains
+
+
+Input sentence: At the summit of these two sword-shaped peaks, it is only less than a hundred meters from the vast sea of ​​clouds in the sky
+Decoded sentence: ', 'At the very top of these peaks, there was only less than a hundred meters between one peak to the next
+
+
+Input sentence: At the peak of the mountain, there is a faint fog and fog, and it is covered by fog, making the peak of the mountain The scenes of the monks are all foolish and ambiguous
+Decoded sentence:  There was a faint amount of fog that hampered the visibility of the area to a confusing degree
+
+
+Input sentence: However, vaguely, they can still be found on the top of two sword-shaped mountains
+Decoded sentence:  However, despite the hazy visibility, one would still be able to faintly make out two people standing at the very top of the mountain peaks calmly and motionlessly as if they were stone statues
+
+
+Input sentence: Two people are standing there silently, as if they were a stone statue, and they will not move
+Decoded sentence:  Only their clothes and wind had fluttered with the fierce gale of wind that blew across the sky
+
+
+Input sentence: Only the bleak winds in the sky were blowing on the clothes of the two men and the hair was floating in the wind
+Decoded sentence: ', 'Between these two people, one of them was a youth that was no older than 20 years old
+
+
+Input sentence: Among them, one of them seems to be just a youth younger than 20 years old
+Decoded sentence:  This youth was incredibly handsome with a flawless facial appearances
+
+
+Input sentence: The young man is very handsome and his handsome features are flawless
+Decoded sentence:  It could be said that his appearances was simply unrivaled throughout the world and was a natural lady killer
+
+
+Input sentence: It is truly unique and it is the killer of all young girls in the world
+Decoded sentence:  His rather ordinary-looking eyes contained a unique amount attractiveness and fascination to them and seemed as if it could steal the soul of whomever
+
+
+Input sentence: A pair of bland eyes has a unique attraction, very charming, as if you can breathe
+Decoded sentence: ', 'The youth had long black hair with a length that reached his waist without being tied up in any way, allowing it to floe and were spoci
+
+
+Input sentence: The young man has a long black hair and goes straight to his waist
+Decoded sentence:  On his back was a single long sword that was wrapped up in a thick white layer of cloth
+
+
+Input sentence: His long hair is not bound by any restraint
+Decoded sentence:  On the exquisite sword hilt that stuck out from the cloth, one could make out the two words “Light Wind”
+
+
+Input sentence: He is arbitrarily dressed and flutters with the roaring winds
+Decoded sentence:  What was most puzzling about the sword however was the fact that there had been no ropes binding it to the youth at all
+
+
+Input sentence: On the young man's back, he carries a long sword
+Decoded sentence:  It seemed as if it was stuck to the back of the youth without any chance of falling–clearly a very hard display to explain
+
+
+Input sentence: The sword of the sword was wrapped in a thick layer of white cloth
+Decoded sentence: ', 'This youth’s name was Jian Chen, the number one expert with a name that shook the Heavens and the Jianghu with the moniker of “Sword God”
+
+
+Input sentence: Only an exquisite hilt on the outside could be seen
+Decoded sentence:  His quick sword techniques had long since reached perfection and could be considered the sword master of the generation
+
+
+Input sentence: On the hilt, the word “light breeze” was clearly engraved
+Decoded sentence:  Despite being only 20 or so years old, he had already reached a realm of great heights
+
+
+Input sentence: However, it was strange
+Decoded sentence: ', 'The details regarding Jian Chen were relatively unknown to the people of the Jianghu
+
+
+Input sentence: The fact is that the whole sword of the sword did not have any ropes
+Decoded sentence:  Aside from that he was an orphan with no affiliations to any school or sect, there was nothing else known about him
+
+
+Input sentence: It seemed as if it was sucking on the back of the young people
+Decoded sentence:  His history was essentially a riddle, and the strong style of martial arts and the exquisite sword style he used had been an utter mystery on where to learn it
+
+
+Input sentence: It did not fall down
+Decoded sentence: ', 'And on the other sword-shaped peak a hundred meters away was a single large man wearing black robes
+
+
+Input sentence: This scene seems obviously difficult to understand
+Decoded sentence:  This was an elderly man who looked to be around 50 to 60 years old with hair that was tied up in the same fashion of the neck of a crane
+
+
+Input sentence: This young man is called Jian Chen, and now the first master in the arena of the rivers and lakes is known as the title of the sword god
+Decoded sentence:  Both of his elderly eyes lit up with a lively spirit that seemed to shine with a light that lit up the entire area
+
+
+Input sentence: It is a master of swordsmanship, and the first-hand quick swordsmanship method has already achieved supernatural power and has reached the ultimate goal
+Decoded sentence:  His gaze had been like a sharp sword that would make anyone unwilling to look straight at him
+
+
+Input sentence: However, his age is only in his twenties
+Decoded sentence:  In his hand was a black and thick long sword
+
+
+Input sentence: For the sword dust, the people in the rivers and lakes know very little
+Decoded sentence:  But what was most surprising was that this giant sword had no edge to it
+
+
+Input sentence: In addition to knowing that he is an orphan and there is no school, the others have nothing to know
+Decoded sentence: ', 'This elderly man was the legendary figure that had disappeared from the Jianghu over a hundred years ago: Dugu Qiubai
+
+
+Input sentence: His origins are like a mystery
+Decoded sentence:  But that was only a nickname of his since no one had any idea on what his true name or identity was
+
+
+Input sentence: No one knows how to learn from high-strength martial arts and the exquisite swordsmanship
+Decoded sentence:  The reason for this was because over a hundred years ago, he had defeated every single ‘unper
+
+
+Input sentence: And on the sword-shaped mountain peak 100 meters away from him, a tall man dressed in a black robe stood there, far from sword dust
+Decoded sentence:  Nowadays, the amount of people that knew anything about Dugu Qiubai and were still alive were far and few
+
+
+Input sentence: This man was an old man, and he looked like he was 50 or 60 years old
+Decoded sentence:  But even now, the splendid light he had cast in his former days had been passed on from generation to generation
+
+
+Input sentence: The appearance of the child, Hefa Tong Yan, a pair of old eyes and gods, Jingmang eyes, that sharp eyes like a sharp sword, people dare not look at him, and in his hands, holding a generous black giant The sword, but what makes people feel weird is that his great sword is actually not edged
+Decoded sentence:  A hundred years later, his strength was surely much stronger brongent, the baster was gity continued to grople out the very complexcled Dugu Qiubai his face as seepared us it as the spard, he daintes
+
+
+Input sentence: This old man is a legendary figure that has disappeared for hundreds of years in the rivers and lakes - the defeat of Tokgo, and the defeat of Tokgo is just his title
+Decoded sentence: ', 'Silently, Dugu Qiubai stared at the 20 or so years old Jian Chen from a hundred meters away
+
+
+Input sentence: No one knows his real name and identity, because as early as a hundred years ago, he It is a super strong player who fights invincible in the world
+Decoded sentence:  His eyes were extremely terrifying and seemed to contain a sharp sword-like glare that seemed as if it could freeze someone at times
+
+
+Input sentence: Nowadays, people who know some information about the defeat of Tok Go is still very rare in the world
+Decoded sentence: ', '“Jian Chen, despite being so young, you have a strength that is no weaker than mine
+
+
+Input sentence: However, his brilliant brilliance is still He was passed down from generation to generation, and today his strength is better than it was a century ago
+Decoded sentence:  Your achievements in the way of the sword is something that even I can only hope to attain
+
+
+Input sentence: Nowadays, no one knows what the strength of Tokgo's defeat has reached
+Decoded sentence:  But unfortunately, you’ve killed my one dear disciple, leaving me no choice but to take revenge
+
+
+Input sentence: Tokgo defeated a pair of eyes and looked quietly at the sword dust that appeared to be barely twenty-somethings old but hundred meters away
+Decoded sentence:  No matter what, I will act in place of my disciple for the sake of justice today
+
+
+Input sentence: His eyes were extremely sharp, as if he had sharp swords, and his eyes flashed over and over
+Decoded sentence: ” Dugu Qiubai’s spoke darkly
+
+
+Input sentence: "Dust in the dust, at such a young age, she will have a strength that is not weaker than that of the old man, and your accomplishment in the kendo will reach a height that even the old man could not match
+Decoded sentence:  His previously calm voice had already started to fill up with a bloodlust that would cause people to tremble and shake
+
+
+Input sentence: Unfortunately, you killed my only lover, this hatred
+Decoded sentence: ', 'But Jian Chen’s face remained calm as ever as he stared back at Dugu Qiubai impasiss
+
+
+Input sentence: I have to report that I must be fair for my only child in any case today
+Decoded sentence:  His white robes fluttered gently into the air while the hair that dangled at his waist was sent dancing in the wind freely
+
+
+Input sentence: " Tokgo said with a loss, and in a seemingly calm tone, it was filled with a chilling and quivering kill
+Decoded sentence: ', '“I cannot be blamed for that
+
+
+Input sentence: Jian Chen looked very calm, his eyes lightly watching the unfair defeat of Tokgo, his body dressed in a white robe fluttering in the wind, and that a waist long hair, but also by the wind blowing in random fluttering, it looks really cool
+Decoded sentence:  It was your disciple that decided to offend me first
+
+
+Input sentence: "It's no wonder that I, your apprentice took the initiative to offend me
+Decoded sentence:  It could only be blamed on his lack of skill that he was killed by my own sword
+
+
+Input sentence: As for my death under my sword, I can only blame him for not doing his fine art
+Decoded sentence: ” Jian Chen’s lips opened and closed gently as the words came flowing out from his mouth
+
+
+Input sentence: " Jian Chen's lips gently opened and closed, a faint voice spit out of his mouth
+Decoded sentence: ', 'Laughing angrily, Dugu Qiubai spoke, “A lack of skill? Very well then! Then today I will see just how experienced you around and lave to argent migets in a tere with nooks
+
+
+Input sentence: Tokgo fought and angered and smiled: “Okay, good, good, good, bad arts, then I’m going to meet you today to see how much energy you have, and whether you can put the old man in your hands
+Decoded sentence:  Let this old man see where you will be able to execute me with your Light Wind Sword
+
+
+Input sentence: Sword under the wind
+Decoded sentence: ”', 'As he spoke, Dugu Qiubai waved his Heavy Iron Sword
+
+
+Input sentence: "Saying, when Tokgo defeated Xuan Tie in his hand, suddenly, a mighty sword rushed out of the sword, and with a fierce sword, he shot at a speed as fast as lightning speed toward the sword dust 100 meters away
+Decoded sentence:  Immediately, a strong amount of Sword Qi began to escape the sword before shooting straight for Jian Chen a hundred meters away with the speed of a lightning bolt
+
+
+Input sentence: Jian Chen's look of calm, with a sound of the sword's scabbard, that long sword carried in the back in an instant appears in the hands of sword dust, which is full of four feet long, two fingers wide and slender sword sword The body is exudes a layer of silver Jianmang, then the sword in the hands of the sword dust quickly stabbed out, I saw a strong sword and sword out of the sword, with the naked eye can not capture the speed toward the unlucky shot to shoot the sword Air strikes
+Decoded sentence: ', 'Unsheathing his sword with an impassive face, Jian Chen quickly drew out the long sword that had been on his back to his hand
+
+
+Input sentence: "Boom!"The two swords collided in a gas phase and burst into a loud crash, deafening
+Decoded sentence:  This double-edged sword was about 1
+
+
+Input sentence: The powerful infuriating waves centred on the explosion point, quickly spread out in all directions, and dispersed the faint clouds around them
+Decoded sentence: 3 meters long and two fingers wide with a white light
+
+
+Input sentence: Then, sword dust and Tokgo fought and lost at the same time and flew away from the mountain where the foot stood, flew between the two peaks, and engaged in fierce fighting in mid-air
+Decoded sentence:  Stabbing forward with the sword, an even more fierce amount of Sword Qi appeared from the sword and shot towards the jet of Sword Qi from Dugu Qiubai with a speed almorit
+
+
+Input sentence: The speed of the two men's shots was extremely fast, and the sound of the weapons and the sound of friction rang in the air
+Decoded sentence: ', '“Bang!”', 'The two rays of Sword Qi collided with a loud explosion that rocked the eardrums
+
+
+Input sentence: The strong Jian Qi shot from the two warring positions to the surrounding chaos, and shot a big hole on the surrounding peaks
+Decoded sentence:  A large wave of Qi scattered away from the epicenter with great speeds, scattering the lingering wisp of mist and clouds nearby
+
+
+Input sentence: Countless gravels fell to the ground below the feet
+Decoded sentence: ', 'Straight away, Jian Chen and Dugu Qiubai flew straight for each other, leaving the twin peaks they had initially been standing on
+
+
+Input sentence: Just a few breathing time, sword dust and Tokgo defeated the two quickly battled hundreds of rounds, and then when the two fell back on the two peaks, I saw only two were slightly emaciated
+Decoded sentence:  As they reached the midway point of the two peaks, they began to engage each in a fierce battle midair
+
+
+Input sentence: , On the original unblemished clothes, there have been a lot of cracks and become a bit rags up
+Decoded sentence: ', 'The two men had strikes that were impeccably fast and the sounds made from their weapons striking against each other had been an endless stream of metallic rings
+
+
+Input sentence: Tokgo defeated his face and looked at the sword dust seriously
+Decoded sentence:  A sharp amount of Sword Qi shot out from all directions from the two and left giant holes in the landscape around them
+
+
+Input sentence: His look became dignified, and he replied, "Surely a good sword, no wonder you can't break it in the rivers and lakes, but you can't be old
+Decoded sentence:  As a result, countless of rocks had been sent cascading down a thousand meters below
+
+
+Input sentence: " Tokgo lost his tone and continued and said: “We can hardly tell the difference by winning the game
+Decoded sentence: ', 'Within several breaths worth of time, Jian Chen and Dugu Qiubai had already exchanged several hundred blows at lightning quick speeds
+
+
+Input sentence: It is better to apply the strongest blow at the same time and decide the outcome with one stroke
+Decoded sentence:  Afterwards, the two men had leapt back to their respective mountain peaks
+
+
+Input sentence: ” Then, the momentum of Tokyu’s defeat was sudden
+Decoded sentence:  Each person were in a worse-for-wear state and had more than enough tears in their previously perfect clothing
+
+
+Input sentence: A skyrocketing sky is like a skyscraper
+Decoded sentence: ', 'With a serious expression that seemed to grow even more grim each second, Dugu Qiubai growled, “What a fast sword, it is no wonder that no one in the Jianghu is able to break past your sword
+
+
+Input sentence: Jian Chen's face became dignified, and then, the body exudes a huge incomparable momentum, no less than Tokgo seeking defeat
+Decoded sentence:  But, it is powerless against this old man
+
+
+Input sentence: The imposing momentum of the two men and women climbed up and overwhelmed the entire sky, and the two menacing forces combined to directly envelope the entire mountain, tens of thousands of miles away
+Decoded sentence: ” Dugu Qiubai paused for a moment before continuing to say, “If we continue on like this, the victor of this match will be hard to determine
+
+
+Input sentence: Even the clouds in the sky were rushed by the momentum of the two men
+Decoded sentence:  We may as well use our strongest strike to find out the victor
+
+
+Input sentence: A big hole emerged and quickly dispersed
+Decoded sentence: ” With that, Dugu Qiubai suddenly exploded with power that seemed as if it was a single giant sword that pierced into the skies
+
+
+Input sentence: The squalls in the sky whistled and shrieked and screamed
+Decoded sentence: ', 'Growing serious as well, Jian Chen too began to scibly vere in the same bashe
+
+
+Input sentence: In the mountains and forests, countless birds and beasts issued horror calls, and they fled with their limbs to the distance
+Decoded sentence: ', 'The power of the two men continued to escalate with an earth-shattering amount of force that filled the entire area
+
+
+Input sentence: The two peaks of the top of the mountain are constantly increasing, and they are all brewing the strongest blow
+Decoded sentence:  Soon enough, the power of the two began to cover the both of them and all over the entire mountains
+
+
+Input sentence: "Oh!" "Oh!"Not far from the mountains and forests, many small trees can not afford the strong momentum of the two people, have been blocking the waist break, and then by the two giants of the momentum to the red sky, flying far
+Decoded sentence:  Even the clouds themselves had a hole in them from the power exuded by the two
+
+
+Input sentence: As the momentum of both sword dust and lone defeating people continues to rise, a strong true air flow appears around the body of both of them, and the two people quickly rotate around and the trees and trees are both The formidable momentum of the pressure to bend the waist, numerous trees have shaken body, swinging
+Decoded sentence:  A fierce gale began to scream and whistle with an ear-piercing sound that was reminiscent of a ghost wailing into the winds
+
+
+Input sentence: At the same time, the light wind sword in the hands of sword dust and the mysterious iron epee defeated by Tokgo exudes a dazzling white light and dark black light
+Decoded sentence:  Down in the forests below, countless of animals began to let out terrified sounds as they began to scuttle away from the area as far as their limbs could take them
+
+
+Input sentence: The true air flow around them was becoming more and more powerful
+Decoded sentence:  The strength of the two men on the peaks continued to escalate as they prepared to unleash their strongest strike
+
+
+Input sentence: Finally, the whole body of the sword dust was covered with a thick layer of white light
+Decoded sentence: ', '“Kacha!” “Kacha!”', 'Not too far away in the mountains, several small trees were unable to withstand the power of the two
+
+
+Input sentence: And the defeat of Tokyu was also wrapped in a layer of black light, and the figure of the two had been completely lost
+Decoded sentence:  Snapping and breaking into several pieces, they were sent flying into the air and far away from the place
+
+
+Input sentence: In the air, we saw two groups of diametrically opposite dazzling lights
+Decoded sentence: ', 'While Jian Chen and Dugu Qiubai’s strength continued to rise, a stream of Qi began to stream around them in a single revolution
+
+
+Input sentence: "Oh!"The long sword in the sword dust was trembling lightly
+Decoded sentence:  Any trees or pieces of grass in the area had been pressed down against the ground in the face of their might, and several of the larger trees had even began to shake back and forth
+
+
+Input sentence: At the moment, the sword was already shining with bright swords
+Decoded sentence: ', 'At the same time, a dazzling glow of white light appeared in Jian Chen’s Light Wind Sword while a jet-black light appeared in Dugu Qiubai’s Heavy Iron Sword
+
+
+Input sentence: This powerful sword feels scared
+Decoded sentence: ', 'The Qi circulating around the two men began to grow stronger and stronger until there was a rich white glow that surrounded Jian Chen completely, and a deep black glow that surrounded Dugu Qiubai inside
+
+
+Input sentence: His long black hair fluttered wildly in the wind, and his white robe floated in the wind
+Decoded sentence:  The both of them had disappeared into their respective colors while all that was left to see was two balls of light shining with the exact opposite colors of each other
+
+
+Input sentence: His whole body was vacant, and it looked as if the Buddha was a god of war and could not be defeated
+Decoded sentence: ', '“Yin!”', 'Jian Chen’s Light Wind Sword had already been filled with a small strong the diffinttessoly of contaring threatly
+
+
+Input sentence: When the momentum of the two climbed to the top, suddenly, the two made a terrible anger and sounded at the same time
+Decoded sentence:  His black hair had fluttered crazily in the winds while the white robe he wore fluttered with it
+
+
+Input sentence: It sounded as if the thunderbolt suddenly rang and was deafening
+Decoded sentence:  His entire body floated in midair, and a single look was all it took for him to be identified as a war god with an indomitable strength
+
+
+Input sentence: Then, he saw a brilliant white light and darkness in the dark
+Decoded sentence: ', 'As the two men’s strength continued to climb up to the peak, the two men suddenly let out a furious roar that shook the heavens like a bole dount
+
+
+Input sentence: Lightning speed collided and flashed
+Decoded sentence:  Straight away, a beautiful bright white light and a dark black light shot towards each other with incredible speed
+
+
+Input sentence: There was no imaginary collision sound
+Decoded sentence:  In the instant where the two would collide against each other…', 'There had been no sound as one would expect
+
+
+Input sentence: When everything calmed down, I saw the sword dust and Tokgo defeated the two have changed a position, re-distance from the distance of 100 meters standing on the top of the two peaks, the two faces look It was extremely pale, and on the dust of the sword dust, the red blood quickly flowed out
+Decoded sentence:  When everything had calmed down, one could see that Jian Chen and Dugu Qiubai had changed spots
+
+
+Input sentence: He immediately dyed his white robe quickly
+Decoded sentence:  Each one were now on the other mountain peak away from each other with an equally pal face
+
+
+Input sentence: Just in the lightning staggered and outdated, Tokgo defeated the sword and pierced it
+Decoded sentence:  A steady stream of blood could be seen flowing from Jian Chen’s chest, staining his pure white robes instantly
+
+
+Input sentence: His heart
+Decoded sentence:  In that split-instance where the two sides had crossed paths, Dugu Qiubai’s sword had pierced through Jian Chen’s heart
+
+
+Input sentence: The defeat of Tokgo had already lost his entire right arm
+Decoded sentence: ', 'As for Dugu Qiubai, he had lost his entire right arm, meaning that he would not be able to wield a sword any longer
+
+
+Input sentence: He who had lost his right arm was no longer able to take the sword
+Decoded sentence:  The Heavy Iron Sword that had been in it had long since dropped down a thousand meters into the cliffs below
+
+
+Input sentence: The black iron epee held in his right hand had fallen off the cliff at the foot of the mountain
+Decoded sentence:  At the time where he had pierced Jian Chen’s heart, he had lost his right arm in exchange
+
+
+Input sentence: After a sword pierced the heart of the sword dust, it lost the same arm
+Decoded sentence: ', 'Standing silently on top of the mountain peak, a stream of fresh blood began to slowly leak from his mouth
+
+

@@ -27,6 +27,8 @@ I compiled 200 chapters for 5 different novels.
 ##### * Beauty and the Bodyguard: http://gravitytales.com/novel/beauty-and-the-bodyguard
 ##### * Godly Model Creator: http://gravitytales.com/novel/godly-model-creator
 
+I picked these novels because they have a multitude of similarities while being very different.  The genres, time periods and story lines and vocabulary of the author vary greatly.
+
 I then found the original Chinese versions of these 1000 chapters. From their various hosting sites in China.
 
 ##### Web Scraping code for each novel can be found in (src folder link)
@@ -41,7 +43,7 @@ I then found the original Chinese versions of these 1000 chapters. From their va
 
 >-----------------------
 
-> #### Machine Translated Text:
+> #### Google Translated Text:
 >
 In a vast and endless range of mountains, two sword-shaped peaks with a thousand feet high stand 100 meters apart under a sea of clouds. The two sword-shaped peaks are very steep, and they look like two enlarged versions of the Excalibur inserted between heaven and earth. There is no place for rock climbing.
 
