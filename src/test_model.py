@@ -2,6 +2,8 @@ from keras.models import Model
 from keras.layers import Input, LSTM, Dense
 import numpy as np
 import argparse
+import pickle
+import keras
 
 def decode_sequence(input_seq,encoder_model,decoder_model):
     states_value = encoder_model.predict(input_seq)
@@ -31,15 +33,17 @@ def decode_sequence(input_seq,encoder_model,decoder_model):
     return decoded_sentence
 
 if __name__=='__main__':
-    parser= argparse.ArgumentParser(description='datapath')
-    parser.add_argument('datapath')
+    parser= argparse.ArgumentParser()
     parser.add_argument('function')
     train= parser.parse_args().function=='train'
-    data_path=parser.parse_args().datapath
+    retrain= parser.parse_args().function=='retrain'
+    if retrain:
+        train=True
+    data_path='data/traincorp.txt'
 
     if train:
-        batch_size = 64
-        epochs = 2
+        batch_size = 512
+        epochs = 1000
         latent_dim = 256
 
         input_texts = []
@@ -48,17 +52,18 @@ if __name__=='__main__':
         target_characters = set()
         with open(data_path, 'r', encoding='utf-8') as f:
             lines = f.read().split('\n')
-        for line in lines:
-            input_text, target_text = line.split('\t')
-            target_text = '\t' + target_text + '\n'
-            input_texts.append(input_text)
-            target_texts.append(target_text)
-            for char in input_text:
-                if char not in input_characters:
-                    input_characters.add(char)
-            for char in target_text:
-                if char not in target_characters:
-                    target_characters.add(char)
+        for line in lines[0:25000]:
+            if len(line)>0:
+                input_text, target_text = line.split('\t')
+                target_text = '\t' + target_text + '\n'
+                input_texts.append(input_text)
+                target_texts.append(target_text)
+                for char in input_text:
+                    if char not in input_characters:
+                        input_characters.add(char)
+                for char in target_text:
+                    if char not in target_characters:
+                        target_characters.add(char)
 
         input_characters = sorted(list(input_characters))
         target_characters = sorted(list(target_characters))
@@ -100,23 +105,25 @@ if __name__=='__main__':
                 if t > 0:
                     decoder_target_data[i, t - 1, target_token_index[char]] = 1.
 
+        if not retrain:
+            encoder_inputs = Input(shape=(None, num_encoder_tokens))
+            encoder = LSTM(latent_dim, return_state=True)
+            encoder_outputs, state_h, state_c = encoder(encoder_inputs)
 
-        encoder_inputs = Input(shape=(None, num_encoder_tokens))
-        encoder = LSTM(latent_dim, return_state=True)
-        encoder_outputs, state_h, state_c = encoder(encoder_inputs)
-
-        encoder_states = [state_h, state_c]
+            encoder_states = [state_h, state_c]
 
 
-        decoder_inputs = Input(shape=(None, num_decoder_tokens))
-        decoder_lstm = LSTM(latent_dim, return_sequences=True, return_state=True)
-        decoder_outputs, _, _ = decoder_lstm(decoder_inputs,initial_state=encoder_states)
-        decoder_dense = Dense(num_decoder_tokens, activation='softmax')
-        decoder_outputs = decoder_dense(decoder_outputs)
+            decoder_inputs = Input(shape=(None, num_decoder_tokens))
+            decoder_lstm = LSTM(latent_dim, return_sequences=True, return_state=True)
+            decoder_outputs, _, _ = decoder_lstm(decoder_inputs,initial_state=encoder_states)
+            decoder_dense = Dense(num_decoder_tokens, activation='softmax')
+            decoder_outputs = decoder_dense(decoder_outputs)
 
-        model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
+            model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
-        model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
+            model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
+        elif retrain:
+            model=keras.models.load_model('src/s2s.h5')
         model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
                   batch_size=batch_size,
                   epochs=epochs,
@@ -149,7 +156,7 @@ if __name__=='__main__':
     if not train:
         num_encoder_tokens,num_decoder_tokens,max_encoder_seq_length,max_decoder_seq_length= pickle.load(open('src/pickles/variables.pkl','rb'))
 
-        input_token_index,target_token_index=pickle.load(open('src/pickles/token_indeices','rb'))
+        input_token_index,target_token_index=pickle.load(open('src/pickles/token_indices.pkl','rb'))
 
         model=keras.models.load_model('src/s2s.h5')
         encoder_model=keras.models.load_model('src/encoder.h5')
@@ -157,11 +164,11 @@ if __name__=='__main__':
 
         reverse_input_char_index,reverse_target_char_index = pickle.load(open('src/pickles/reverse.pkl','rb'))
 
-        with open(data_path,'r',encoding='utf-8') as f:
+        with open('data/TDGScrape/Raw_Trans/rt1.txt','r',encoding='utf-8') as f:
             input=f.read().split('.')
         k=0
         for i in range(len(input)):
-            if input[k]<10:
+            if len(input[k])<10:
                 del input[k]
             else:
                 k+=1
@@ -169,9 +176,12 @@ if __name__=='__main__':
 
         for i, input_text in enumerate(input):
             for t, char in enumerate(input_text):
-                input_data[i, t, input_token_index[char]] = 1.
+                try:
+                    input_data[i, t, input_token_index[char]] = 1.
+                except:
+                    KeyError
 
         decoded_chapter=''
         for line in input_data:
-            decoded_chapter+='{}\n'.format(decode_sequence(line))
+            decoded_chapter+='{}\n'.format(decode_sequence(line[np.newaxis,:],encoder_model,decoder_model))
         print(decoded_chapter)
