@@ -8,21 +8,28 @@ There is one problem that faces many web novel enthusiasts.  Someone who does no
 
 As an avid web novel enthusiast and a data scientist, I decided it was time to put a stop to this.  I decided to make a new form of machine translator that will not only take web novels from their language of origin to English, but also edit and stylize the output to make the robotic descriptive.
 
-|<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" style="width: 175px;"/>|<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" style="width: 175px;"/>|<img src='https://www.wuxiaworld.com/images/covers/mga.png' alt = 'Martial God Asura' style= 'width: 175px;'/>|<img src='https://cdn.novelupdates.com/images/2017/11/128-200.jpg' alt = 'Godly Model Creator' style='width: 175px; height: 265px;'/>|
+|<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" style="width: 175px;"/>|<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" style="width: 175px;"/>|<img src='https://www.wuxiaworld.com/images/covers/mga.png' alt = 'Martial God Asura' style= 'width: 175px;'/>|<img src='https://lnmtl.com/assets/images/novel/2-200.jpg' alt = 'Tales of Demons and Gods' style='width: 175px; height: 265px;'/>|<img src='https://f01.mrcdn.info/file/mrportal/h/9/5/b/QU.2NpMOHZc.png' alt = 'Panlong' style='width: 175px; height: 265px;'/>|
+
+
 
 ## The Data
 
 Luckily there is a large amount of data available on the open web.  There are many websites that offer chapters translated and edited by fans.
 
-I used one such website Gravity Tales (https://www.gravitytales.com) due to it hosting some of my favorite novels and also being permissive of web scraping and use of their content.
+I used two such website Gravity Tales (https://www.gravitytales.com) and Wuxiaworld (https://www.wuxiaworld.com) due to their hosting some of my favorite novels and also being permissive of web scraping and use of their content.
 
 I compiled 200 chapters for 5 different novels.
 
-##### * Chatoic Sword God: http://gravitytales.com/novel/chaotic-sword-god
-##### * Shen Ying Wang Zuo: http://gravitytales.com/novel/shen-ying-wang-zuo
-##### * Martial God Asura: https://www.wuxiaworld.com/novel/martial-god-asura
-##### * Beauty and the Bodyguard: http://gravitytales.com/novel/beauty-and-the-bodyguard
-##### * Godly Model Creator: http://gravitytales.com/novel/godly-model-creator
+##### * Chatoic Sword God:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CSG Novel Page](http://gravitytales.com/novel/chaotic-sword-god)
+##### * Shen Ying Wang Zuo:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SYWZ Novel Page](http://gravitytales.com/novel/shen-ying-wang-zuo)
+##### * Martial God Asura:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MGA Novel Page](https://www.wuxiaworld.com/novel/martial-god-asura)
+##### * Tales of Demons and Gods:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TDG Novel Page](https://www.wuxiaworld.com/novel/tales-of-demons-and-gods)
+##### * Coiling Dragon:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CD Novel Page](https://www.wuxiaworld.com/novel/coiling-dragon)
 
 I picked these novels because they have a multitude of similarities while being very different.  The genres, time periods and story lines and vocabulary of the author vary greatly.
 

@@ -49,7 +49,7 @@ def text():
 
     decoded_chapter=''
     for line in input_data:
-        decoded_chapter+='{}\n'.format(decode_sequence(line[np.newaxis,:],encoder_model,decoder_model,num_decoder_tokens,target_token_index,reverse_target_char_index,max_decoder_seq_length))
+        decoded_chapter+='{}<br>'.format(decode_sequence(line[np.newaxis,:],encoder_model,decoder_model,num_decoder_tokens,target_token_index,reverse_target_char_index,max_decoder_seq_length))
     return(decoded_chapter)
 
 
