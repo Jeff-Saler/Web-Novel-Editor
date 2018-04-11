@@ -8,7 +8,7 @@ There is one problem that faces many web novel enthusiasts.  Someone who does no
 
 As an avid web novel enthusiast and a data scientist, I decided it was time to put a stop to this.  I decided to make a new form of machine translator that will not only take web novels from their language of origin to English, but also edit and stylize the output to make the robotic descriptive.
 
-|<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" style="width: 175px;"/>|<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" width= '175px' height= '265px'/>|<img src='https://www.wuxiaworld.com/images/covers/mga.png' alt = 'Martial God Asura' width= '175px' height= '265px'/>|<img src='https://lnmtl.com/assets/images/novel/2-200.jpg' alt = 'Tales of Demons and Gods' width= '175px' height= '265px'/>|<img src='https://f01.mrcdn.info/file/mrportal/h/9/5/b/QU.2NpMOHZc.png' alt = 'Panlong' width='175px' height= '265px'/>|
+|<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" width= '150px' height= '200px'/>|<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" width= '150px' height= '200px'/>|<img src='https://www.wuxiaworld.com/images/covers/mga.png' alt = 'Martial God Asura' width= '150px' height= '200px'/>|<img src='https://lnmtl.com/assets/images/novel/2-200.jpg' alt = 'Tales of Demons and Gods' width= '150px' height= '200px'/>|<img src='https://f01.mrcdn.info/file/mrportal/h/9/5/b/QU.2NpMOHZc.png' alt = 'Panlong' width='150px' height= '200px'/>|
 
 
 ## The Data
