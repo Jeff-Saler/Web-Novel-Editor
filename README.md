@@ -10,13 +10,13 @@ As an avid web novel enthusiast and a data scientist, I decided it was time to p
 
 |<img src="https://images.gr-assets.com/books/1460555353l/29909306.jpg" alt="Chaotic Sword God" style="width: 175px;"/>|<img src="http://avatar.manganelo.com/avatar/362-shen_yin_wang_zuo.jpg" alt="Shen Ying Wang Zuo" style="width: 175px;"/>|<img src='https://www.wuxiaworld.com/images/covers/mga.png' alt = 'Martial God Asura' style= 'width: 175px;'/>|<img src='https://lnmtl.com/assets/images/novel/2-200.jpg' alt = 'Tales of Demons and Gods' style='width: 175px; height: 265px;'/>|<img src='https://f01.mrcdn.info/file/mrportal/h/9/5/b/QU.2NpMOHZc.png' alt = 'Panlong' style='width: 175px; height: 265px;'/>|
 
-
+![](https://f01.mrcdn.info/file/mrportal/h/9/5/b/QU.2NpMOHZc.png?s=200)![](https://lnmtl.com/assets/images/novel/2-200.jpg?s=200)
 
 ## The Data
 
 Luckily there is a large amount of data available on the open web.  There are many websites that offer chapters translated and edited by fans.
 
-I used two such website Gravity Tales (https://www.gravitytales.com) and Wuxiaworld (https://www.wuxiaworld.com) due to their hosting some of my favorite novels and also being permissive of web scraping and use of their content.
+I used two such website [Gravity Tales](https://www.gravitytales.com) and [Wuxiaworld](https://www.wuxiaworld.com) due to their hosting some of my favorite novels and also being permissive of web scraping and use of their content.
 
 I compiled 200 chapters for 5 different novels.
 
@@ -35,7 +35,7 @@ I picked these novels because they have a multitude of similarities while being 
 
 I then found the original Chinese versions of these 1000 chapters. From their various hosting sites in China.
 
-##### Web Scraping code for each novel can be found in (src folder link)
+##### [Web Scraping Code](https://github.com/Jeff-Saler/Web-Novel-Editor/tree/master/src/web_scrape)
 
 ## Example of Data
 ### Opening Paragraph of Chaotic Sword God Chapter 1:
