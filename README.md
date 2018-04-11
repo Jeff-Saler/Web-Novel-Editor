@@ -61,3 +61,5 @@ Within a seemingly endless chain of mountain ranges, there were two sword-shaped
 The most effective model for translation or editing is a sequence to sequence (seq2seq) recursive neural network (RNN).  I created my RNN with Keras using the Tensorflow backend. I decided to use character prediction rather than word prediction so that it would be better suited to learning new words and better able to generalize.
 
 The model is structured as an embedding layer, an encoding layer with a Long Short Term Memory (LSTM) layer, a hidden dense layer, and a decoding layer with another LSTM.
+
+#### [Model Code](https://github.com/Jeff-Saler/Web-Novel-Editor/blob/master/src/test_model.py)
